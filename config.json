@@ -1,0 +1,8 @@
+{
+  "server":"173.82.115.125",
+  "server_port":"444",
+  "local_port":"1087",
+  "method":"rc4-md5",
+  "password":"123321..",
+  "timeout":""
+}
